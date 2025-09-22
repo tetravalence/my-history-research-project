@@ -1,0 +1,20 @@
+{
+  "name": "456",
+  "description": "",
+  "birthDate": "",
+  "deathDate": "",
+  "traits": [],
+  "motivation": "",
+  "background": "",
+  "notes": "",
+  "isHistorical": false,
+  "imageUrl": "",
+  "tags": [
+    "one"
+  ],
+  "timelineIds": [],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [],
+  "locations": [],
+  "id": "b05b46c0-91ef-4821-a4af-4e41b9a3afec"
+}

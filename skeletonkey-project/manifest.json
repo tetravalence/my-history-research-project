@@ -1,0 +1,39 @@
+{
+  "id": "8c4a8e05-e565-402e-920d-9b1a780331bd",
+  "name": "My History Research Project",
+  "description": "Perfect for alternate history, historical fiction, and academic research",
+  "created": "2025-09-20T05:24:27.000Z",
+  "modified": "2025-09-20T18:33:13.931Z",
+  "version": "2.0.0",
+  "indexes": {
+    "timelines": [
+      "60c7579d-5b8d-46d7-b5df-66e8796caf4a",
+      "335c4c02-577e-4c5d-a49a-f549a58fa7ee"
+    ],
+    "characters": [
+      "b05b46c0-91ef-4821-a4af-4e41b9a3afec",
+      "f1ab61e6-ac20-42ae-bf2f-1cfbda0b6059"
+    ],
+    "locations": [
+      "d1d6a204-95c7-44e5-b758-8d3bcb8841bd"
+    ],
+    "technologies": [],
+    "cultures": [],
+    "sourceDocuments": [],
+    "narratives": []
+  },
+  "metadata": {
+    "entityCount": {
+      "timelines": 2,
+      "characters": 2,
+      "locations": 1,
+      "technologies": 0,
+      "cultures": 0,
+      "sourceDocuments": 0,
+      "narratives": 0
+    },
+    "lastModified": "2025-09-22T00:23:09.758Z",
+    "format": "hierarchical",
+    "version": "2.0"
+  }
+}

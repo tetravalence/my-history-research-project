@@ -1,0 +1,22 @@
+{
+  "name": "23r",
+  "description": "",
+  "type": "Planet",
+  "coordinates": null,
+  "foundedDate": "",
+  "destroyedDate": "",
+  "population": null,
+  "importance": 5,
+  "notes": "",
+  "tags": [],
+  "iconId": "place-generic",
+  "timelineIds": [],
+  "linkedEventIds": [],
+  "properties": {
+    "iconId": "place-generic",
+    "customIcon": null
+  },
+  "id": "d1d6a204-95c7-44e5-b758-8d3bcb8841bd",
+  "createdAt": "2025-09-20T06:28:08.712Z",
+  "updatedAt": "2025-09-20T06:28:08.712Z"
+}

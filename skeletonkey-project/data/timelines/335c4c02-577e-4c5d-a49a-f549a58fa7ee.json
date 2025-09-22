@@ -1,0 +1,56 @@
+{
+  "name": "Branch from \"New Event3563\"",
+  "description": "Timeline branch created from the event \"New Event3563\"",
+  "color": "#10b981",
+  "startDate": "0666-01-06",
+  "endDate": "0666-01-06",
+  "isMainTimeline": false,
+  "parentTimelineId": "fb38944b-b30d-4349-ab06-719e9855b169",
+  "branchFromEventId": "507ea063-8603-433b-b22f-b4dd78156e3a",
+  "tags": [
+    "branch"
+  ],
+  "id": "335c4c02-577e-4c5d-a49a-f549a58fa7ee",
+  "events": [
+    {
+      "title": "New Event3563",
+      "description": "",
+      "date": "0666-01-06",
+      "endDate": null,
+      "timelineId": "30883115-125b-4bba-9d53-98b320a1ed5a",
+      "importance": 5,
+      "isPointOfDivergence": false,
+      "iconId": "default",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "",
+      "tags": [],
+      "id": "dc25c690-8ea8-4dc5-bfb3-2c88de2b2d65"
+    }
+  ],
+  "pointsOfDivergence": [
+    {
+      "id": "e0ee1514-468e-4d4a-815a-07a489afd66b",
+      "timelineId": "30883115-125b-4bba-9d53-98b320a1ed5a",
+      "name": "Branch from \"New Event3563\"",
+      "description": "Diverges from the event \"New Event3563\"",
+      "date": "0666-01-06",
+      "parentTimelineId": "fb38944b-b30d-4349-ab06-719e9855b169",
+      "eventIds": [
+        "507ea063-8603-433b-b22f-b4dd78156e3a"
+      ],
+      "resultingTimelineIds": [
+        "30883115-125b-4bba-9d53-98b320a1ed5a"
+      ],
+      "plausibilityRating": 7,
+      "notes": "",
+      "tags": []
+    }
+  ]
+}

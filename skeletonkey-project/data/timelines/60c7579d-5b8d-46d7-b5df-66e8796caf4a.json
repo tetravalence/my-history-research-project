@@ -1,0 +1,36 @@
+{
+  "name": "4567890-[]",
+  "description": "",
+  "color": "#14B8A6",
+  "startDate": "2025-09-20T05:31:34.166Z",
+  "endDate": "2025-09-20T05:31:34.166Z",
+  "isMainTimeline": true,
+  "parentTimelineId": null,
+  "branchFromEventId": null,
+  "tags": [],
+  "id": "60c7579d-5b8d-46d7-b5df-66e8796caf4a",
+  "events": [
+    {
+      "title": "New Event",
+      "description": "eye",
+      "date": "0777-01-07",
+      "endDate": null,
+      "timelineId": "60c7579d-5b8d-46d7-b5df-66e8796caf4a",
+      "importance": 5,
+      "isPointOfDivergence": false,
+      "iconId": "default",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "",
+      "tags": [],
+      "id": "e9da26e1-0436-4f6e-b0be-def678ca0aed"
+    }
+  ],
+  "pointsOfDivergence": []
+}
